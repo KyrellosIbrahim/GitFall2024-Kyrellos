@@ -1,0 +1,26 @@
+The last book I read was II Chronicles. It basically contains
+the history of the kingdom of Israel. It goes through each king's
+reign and highlights the important things in their lifetimes.
+It starts with saying whether they did was right or what was evil in
+the eyes of God. It also says how many years each king reigned.
+
+git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   book.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   book.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.idea/
+	GitFall2024-Kyrellos.iml
+	properties.txt
+
+kyrellosibrahim@Kyrelloss-MacBook-Air GitFall2024-Kyrellos %

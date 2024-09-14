@@ -1,5 +1,7 @@
 # GitFall2024
+Name: Kyrellos Ibrahim
 
+GitHub username: Kyrellosibrahim
 
 This is the starter code for your Git Assignment.
 

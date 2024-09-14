@@ -1,0 +1,58 @@
+a.
+I have made 4 commits to the repository.
+
+b.
+the .gitignore file was last modified when properties.txt was added to it.
+
+c.
+first, you can use this command to get the most recent file made before the given date:
+kyrellosibrahim@Kyrelloss-MacBook-Air GitFall2024-Kyrellos % git rev-list -n 1 --before="2024-09-13" HEAD
+after that, you can use the given hash code to list all the files that were present at the time.
+kyrellosibrahim@Kyrelloss-MacBook-Air GitFall2024-Kyrellos % git ls-tree cca9550f2da29daeb93233f506be2b02394b5bcc --name-only
+BookShop.java
+Main.java
+README.md
+book.txt
+inspiration.txt
+
+d.
+to see how many times the files in a src folder were modified you use the method:
+git log --pretty=format: --name-only --stat -- src | grep -E 'src/' | sort | uniq -c
+however, this project doesn't have a src folder, so i will check all the modified files:
+git log --pretty=format: --name-only --stat -- ./ | grep -E '^[^/]+$' | sort | uniq -c
+
+e.
+there is no REMOVE.txt file in this repository, so I cannot answer this question. However,
+I can try and answer this question for the README file instead.
+if you do the command " % git log --stat -- README.md"
+it shows us "1 file changed, 2 insertions(+)"
+
+f.
+git log shows the history of commits and changes, which mention the author, date, and message.
+git status shows everything that you would need to know before committing a change. it shows
+changes to be committed, files that were modified, and untracked files.
+
+g.
+git shortlog makes the view much shorter. it sorts by author, how many commits they have made,
+and the message with each commit.
+
+h.
+to check each commit where main.java was part of the commit, you do the function
+git log -- Main.java
+
+i.
+to check each commit where main.java was involved, including renames and diffs,
+you do the function git log --follow -p -- Main.java
+
+j.
+to check each commit where "account" was in the commit message, you use the function
+git log --grep="account"
+
+k.
+to check all commits made by a certain author, you use the function
+git log --author="Kyrellos Ibrahim"
+change out my name for any authors name to see their commits.
+
+l.
+to check commits by Lauren between 01/05/2024 and 01/14/2024, you use the function
+git log --author="Lauren" --since="2014-01-05" --until="2024-01-14"

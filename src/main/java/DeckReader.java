@@ -1,52 +1,100 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import org.jfree.chart.ChartFactory;
+import org.jfree.chart.JFreeChart;
+import org.jfree.data.category.DefaultCategoryDataset;
 import java.util.HashMap;
+import java.util.Map;
 
 public class DeckReader {
+    //first integer is the energy cost, second integer is the number of cards with that energy cost
+    private HashMap<Integer, Integer> costCount = new HashMap<>();
 
-    public Deck readDeck(String fileName) throws IOException{
+    /**
+     * Reads the deck from the input file
+     * @param fileName name of the input file
+     * @return deck object with the cards from the input file
+     * @throws IOException if error occurs while reading the file
+     */
+    public Deck readDeck(String fileName) throws IOException, InvalidDeckException {
         Deck deck = new Deck();
         BufferedReader reader = new BufferedReader(new FileReader(fileName));
         String line;
         int numberOfLines = 0; //must not exceed 1000 lines in the deck
         int invalidCards = 0; //must not exceed 10 invalid cards in the input file
 
-        while((line = reader.readLine()) != null) {
-            numberOfLines++;
-            if(numberOfLines > 1000) {
-                //VOID report
-            }
-            String[] split = line.split(":"); //separates between card name and energy cost
+        try {
+            while((line = reader.readLine()) != null) {
+                numberOfLines++;
+                if(numberOfLines > 1000) {
+                    reader.close();
+                    throw new InvalidDeckException("Deck is too large", deck.getDeckId());
+                }
+                String[] split = line.split(":"); //separates between card name and energy cost
 
-            if(split.length==2) {
-                String cardName = split[0].trim();
+                if(split.length==2) {
+                    String cardName = split[0].trim();
 
-                try {
-                    int energy = Integer.parseInt(split[1].trim());
+                    try {
+                        int energy = Integer.parseInt(split[1].trim());
 
-                    if(ValidCards.isValidCard(cardName, energy)) {
-                        deck.addCard(new Card(cardName, energy));
+                        if(ValidCards.isValidCard(cardName, energy)) {
+                            deck.addCard(new Card(cardName, energy));
+                            //count the number of occurrences of each card for the histogram
+                            costCount.put(energy, costCount.getOrDefault(energy, 0) + 1);
+                        }
+                        else { //for invalid card name
+                            System.out.println("Invalid card: " + line);
+                            invalidCards++;
+                            if(invalidCards > 10) {
+                                reader.close();
+                                throw new InvalidDeckException("Too many invalid cards", deck.getDeckId());
+                            }
+                        }
                     }
-                    else { //for invalid card name
+                    catch (NumberFormatException e) { //for invalid energy cost
                         System.out.println("Invalid card: " + line);
                         invalidCards++;
                         if(invalidCards > 10) {
-                            //VOID report
+                            reader.close();
+                            throw new InvalidDeckException("Too many invalid cards", deck.getDeckId());
                         }
-                    }
-                }
-                catch (NumberFormatException e) { //for invalid energy cost
-                    System.out.println("Invalid card: " + line);
-                    invalidCards++;
-                    if(invalidCards > 10) {
-                        //VOID report
                     }
                 }
             }
         }
-        reader.close();
+        finally {
+            reader.close();
+        }
         return deck;
+    }
+
+    /**
+     * Generates a histogram of the energy cost of the cards in the deck
+     * @param costCount Occurrences of each energy cost
+     * @return histogram of the energy cost of the cards in the deck
+     */
+    public static JFreeChart generateHistogram(HashMap<Integer, Integer> costCount) {
+        DefaultCategoryDataset dataset = new DefaultCategoryDataset();
+        for(Map.Entry<Integer, Integer> entry : costCount.entrySet()) {
+            dataset.addValue(entry.getValue(), "Number of Cards", entry.getKey());
+        }
+        JFreeChart chart = ChartFactory.createBarChart(
+                "Energy Cost Histogram",
+                "Energy Cost",
+                "Number of Cards",
+                dataset
+        );
+        return chart;
+    }
+
+    /**
+     * returns the hashmap of the energy cost
+     * @return hashmap of the energy cost
+     */
+    public HashMap<Integer, Integer> getCostCount() {
+        return costCount;
     }
 }
 
@@ -54,7 +102,7 @@ class ValidCards { //to check actual cards
     private static final HashMap<String, Integer> validCards = new HashMap<>();
 
     //put all the cards into a map for validation
-    //got this from SpireSpy - https://maybelatergames.co.uk/tools/slaythespire/
+    //got the card list from https://maybelatergames.co.uk/tools/slaythespire/
     static {
         validCards.put("Strike", 1);
         validCards.put("Defend", 1);
@@ -136,8 +184,27 @@ class ValidCards { //to check actual cards
 
     }
 
+    /**
+     * Checks if the card is valid
+     * @param cardName name of the card to be tested
+     * @param cost energy cost of the card to be tested
+     * @return true if the card is valid, false otherwise
+     */
     public static boolean isValidCard(String cardName, int cost) {
         return validCards.containsKey(cardName) && validCards.get(cardName) == cost;
     }
 }
 
+
+class InvalidDeckException extends Exception {
+    private int deckId;
+
+    public InvalidDeckException(String message, int deckId) {
+        super(message);
+        this.deckId = deckId;
+    }
+
+    public int getDeckId() {
+        return deckId;
+    }
+}

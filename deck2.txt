@@ -1,0 +1,1122 @@
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1
+Strike:1
+Rampage:1
+Exhume:1
+Power Through:1
+Cleave:1
+Pummel:1
+Shrug it Off:1
+Corruption:3
+Blood for Blood:4
+Headbutt:1
+Bludgeon:3
+Pommel Strike:1
+Whirlwind:0
+Bash:2
+Ghostly Armor:1
+Sword Boomerang:1
+Heavy Blade:2
+Anger:0
+Reckless Charge:0
+Spot Weakness:1
+Dropkick:1
+Juggernaut:2
+Infernal Blade:1
+Iron Wave:1
+Intimidate:0
+Clash:0
+Seeing Red:1
+Shockwave:2
+Limit Break:1
+Sever Soul:2
+Carnage:2
+Defend:1
+Disarm:1
+Demon Form:3
+Reaper:2
+Body Slam:1
+Dual Wield:1
+True Grit:1
+Thunderclap:1
+Strike:1
+Battle Trance:0
+Feel No Pain:1
+Berserk:0
+Flex:0
+Second Wind:1
+Bloodletting:0
+Feed:1
+Inflame:2
+Clothesline:2
+Perfected Strike:2
+Burning Pact:1

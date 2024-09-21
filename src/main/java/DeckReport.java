@@ -9,6 +9,7 @@ import org.jfree.chart.JFreeChart;
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
+import java.util.ArrayList;
 
 public class DeckReport {
     static DeckReader reader = new DeckReader();
@@ -35,7 +36,7 @@ public class DeckReport {
         try {
             Deck deck = reader.readDeck(filename);
             outputFileName = "SpireDeck_" + deck.getDeckId() + ".pdf";
-            validReport(deck, document, contentStream);
+            validReport(deck, document, contentStream, reader.getInvalidCardsList());
         }
         catch (InvalidDeckException e) {
             outputFileName = "SpireDeck_" + e.getDeckId() + "(VOID).pdf";
@@ -56,7 +57,7 @@ public class DeckReport {
      * @param contentStream for the pdf to be written into
      * @throws IOException if error occurs while writing
      */
-    private static void validReport(Deck deck, PDDocument document, PDPageContentStream contentStream) throws IOException {
+    private static void validReport(Deck deck, PDDocument document, PDPageContentStream contentStream, ArrayList<String> invalidCardList) throws IOException {
         contentStream.showText("Deck Report");
         contentStream.setFont(new PDType1Font(Standard14Fonts.FontName.HELVETICA), 12);
 
@@ -70,6 +71,13 @@ public class DeckReport {
 
         for (String text : content) {
             contentStream.showText(text);
+            contentStream.newLineAtOffset(0, -leading);
+        }
+
+        contentStream.showText("Invalid Cards:");
+        contentStream.newLineAtOffset(0, -leading);
+        for(String invalidCard : invalidCardList) {
+            contentStream.showText(invalidCard);
             contentStream.newLineAtOffset(0, -leading);
         }
 

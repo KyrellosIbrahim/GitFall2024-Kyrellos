@@ -4,12 +4,15 @@ import java.io.IOException;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.JFreeChart;
 import org.jfree.data.category.DefaultCategoryDataset;
+
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
 public class DeckReader {
     //first integer is the energy cost, second integer is the number of cards with that energy cost
     private HashMap<Integer, Integer> costCount = new HashMap<>();
+    private ArrayList<String> invalidCardsList = new ArrayList<>();
 
     /**
      * Reads the deck from the input file
@@ -45,7 +48,7 @@ public class DeckReader {
                             costCount.put(energy, costCount.getOrDefault(energy, 0) + 1);
                         }
                         else { //for invalid card name
-                            System.out.println("Invalid card: " + line);
+                            invalidCardsList.add(line);
                             invalidCards++;
                             if(invalidCards > 10) {
                                 reader.close();
@@ -54,7 +57,7 @@ public class DeckReader {
                         }
                     }
                     catch (NumberFormatException e) { //for invalid energy cost
-                        System.out.println("Invalid card: " + line);
+                        invalidCardsList.add(line);
                         invalidCards++;
                         if(invalidCards > 10) {
                             reader.close();
@@ -89,12 +92,9 @@ public class DeckReader {
         return chart;
     }
 
-    /**
-     * returns the hashmap of the energy cost
-     * @return hashmap of the energy cost
-     */
-    public HashMap<Integer, Integer> getCostCount() {
-        return costCount;
+
+    public ArrayList<String> getInvalidCardsList() {
+        return invalidCardsList;
     }
 }
 
